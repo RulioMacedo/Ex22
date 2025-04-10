@@ -14,6 +14,10 @@ body {
     background-position: center center;
 }
 
+header {
+    background-attachment: fixed;
+}
+
 h1 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 2.5em;
@@ -82,7 +86,7 @@ p {
     background-color: rgba(174, 179, 226, 0.8);
     border-radius: 10px;
     padding: 10px;
-    text-align: center;
+    text-align: justify;
     box-shadow: 0px 0px 2px #2070c6;
 }
 
